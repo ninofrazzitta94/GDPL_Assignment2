@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: c28e3cfde2096ca4ab3e76a41da73798
+timeCreated: 1557512219
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: box
+    100002: box 1
+    100004: box 10
+    100006: box 11
+    100008: box 12
+    100010: box 13
+    100012: box 14
+    100014: box 15
+    100016: box 16
+    100018: box 17
+    100020: box 18
+    100022: box 19
+    100024: box 2
+    100026: box 20
+    100028: box 21
+    100030: box 22
+    100032: box 23
+    100034: box 24
+    100036: box 25
+    100038: box 26
+    100040: box 27
+    100042: box 28
+    100044: box 29
+    100046: box 3
+    100048: box 30
+    100050: box 31
+    100052: box 32
+    100054: box 33
+    100056: box 34
+    100058: box 35
+    100060: box 36
+    100062: box 37
+    100064: box 38
+    100066: box 39
+    100068: box 4
+    100070: box 40
+    100072: box 41
+    100074: box 42
+    100076: box 43
+    100078: box 44
+    100080: box 45
+    100082: box 46
+    100084: box 47
+    100086: box 48
+    100088: box 49
+    100090: box 5
+    100092: box 50
+    100094: box 51
+    100096: box 52
+    100098: box 53
+    100100: box 54
+    100102: box 55
+    100104: box 56
+    100106: box 57
+    100108: box 58
+    100110: box 59
+    100112: box 6
+    100114: box 60
+    100116: box 61
+    100118: box 62
+    100120: box 63
+    100122: box 64
+    100124: box 65
+    100126: box 66
+    100128: box 67
+    100130: box 68
+    100132: box 69
+    100134: box 7
+    100136: box 70
+    100138: box 71
+    100140: box 72
+    100142: box 73
+    100144: box 74
+    100146: box 75
+    100148: box 76
+    100150: box 77
+    100152: box 78
+    100154: box 79
+    100156: box 8
+    100158: box 80
+    100160: box 81
+    100162: box 82
+    100164: box 9
+    100166: Cube
+    100168: Cube 1
+    100170: Cube 10
+    100172: Cube 11
+    100174: Cube 12
+    100176: Cube 13
+    100178: Cube 14
+    100180: Cube 15
+    100182: Cube 16
+    100184: Cube 17
+    100186: Cube 18
+    100188: Cube 19
+    100190: Cube 2
+    100192: Cube 20
+    100194: Cube 21
+    100196: Cube 22
+    100198: Cube 23
+    100200: Cube 24
+    100202: Cube 25
+    100204: Cube 26
+    100206: Cube 27
+    100208: Cube 28
+    100210: Cube 29
+    100212: Cube 3
+    100214: Cube 30
+    100216: Cube 31
+    100218: Cube 32
+    100220: Cube 33
+    100222: Cube 34
+    100224: Cube 35
+    100226: Cube 36
+    100228: Cube 37
+    100230: Cube 38
+    100232: Cube 39
+    100234: Cube 4
+    100236: Cube 40
+    100238: Cube 41
+    100240: Cube 42
+    100242: Cube 43
+    100244: Cube 44
+    100246: Cube 5
+    100248: Cube 6
+    100250: Cube 7
+    100252: Cube 8
+    100254: Cube 9
+    100256: cylinder
+    100258: Domino
+    100260: Domino 1
+    100262: Domino 10
+    100264: Domino 11
+    100266: Domino 12
+    100268: Domino 13
+    100270: Domino 14
+    100272: Domino 15
+    100274: Domino 16
+    100276: Domino 17
+    100278: Domino 18
+    100280: Domino 19
+    100282: Domino 2
+    100284: Domino 20
+    100286: Domino 21
+    100288: Domino 22
+    100290: Domino 23
+    100292: Domino 24
+    100294: Domino 25
+    100296: Domino 26
+    100298: Domino 27
+    100300: Domino 28
+    100302: Domino 29
+    100304: Domino 3
+    100306: Domino 30
+    100308: Domino 31
+    100310: Domino 32
+    100312: Domino 33
+    100314: Domino 34
+    100316: Domino 4
+    100318: Domino 5
+    100320: Domino 6
+    100322: Domino 7
+    100324: Domino 8
+    100326: Domino 9
+    100328: group_0
+    100330: group_0 1
+    100332: group_0 10
+    100334: group_0 11
+    100336: group_0 2
+    100338: group_0 3
+    100340: group_0 4
+    100342: group_0 5
+    100344: group_0 6
+    100346: group_0 7
+    100348: group_0 8
+    100350: group_0 9
+    100352: group_1
+    100354: group_10
+    100356: group_2
+    100358: group_3
+    100360: group_4
+    100362: group_5
+    100364: group_6
+    100366: group_7
+    100368: group_8
+    100370: group_9
+    100372: hinge
+    100374: hinge 1
+    100376: hinge 10
+    100378: hinge 11
+    100380: hinge 2
+    100382: hinge 3
+    100384: hinge 4
+    100386: hinge 5
+    100388: hinge 6
+    100390: hinge 7
+    100392: hinge 8
+    100394: hinge 9
+    100396: hinge19524
+    100398: hinge19879
+    100400: hinge20504
+    100402: hinge20518
+    100404: hinge20532
+    100406: hinge20546
+    100408: hinge20573
+    100410: hinge20911
+    100412: hinge21222
+    100414: hinge6208
+    100416: hinge7041
+    100418: hinge9323
+    100420: ID12
+    100422: ID32
+    100424: ID57
+    100426: ID57 1
+    100428: ID57 10
+    100430: ID57 11
+    100432: ID57 2
+    100434: ID57 3
+    100436: ID57 4
+    100438: ID57 5
+    100440: ID57 6
+    100442: ID57 7
+    100444: ID57 8
+    100446: ID57 9
+    100448: ID70
+    100450: instance_0
+    100452: instance_1
+    100454: instance_10
+    100456: instance_11
+    100458: instance_12
+    100460: instance_13
+    100462: instance_14
+    100464: instance_15
+    100466: instance_16
+    100468: instance_17
+    100470: instance_18
+    100472: instance_19
+    100474: instance_2
+    100476: instance_20
+    100478: instance_21
+    100480: instance_22
+    100482: instance_23
+    100484: instance_24
+    100486: instance_25
+    100488: instance_3
+    100490: instance_4
+    100492: instance_5
+    100494: instance_6
+    100496: instance_7
+    100498: instance_8
+    100500: instance_9
+    100502: //RootNode
+    100504: skp_camera_Last_Saved_SketchUp_View
+    100506: sphere
+    100508: sphere 1
+    100510: sphere 2
+    100512: staticmesh
+    100514: staticmesh 1
+    100516: staticmesh 10
+    100518: staticmesh 11
+    100520: staticmesh 2
+    100522: staticmesh 3
+    100524: staticmesh 4
+    100526: staticmesh 5
+    100528: staticmesh 6
+    100530: staticmesh 7
+    100532: staticmesh 8
+    100534: staticmesh 9
+    100536: Wheel
+    100538: Wheel 1
+    100540: Wheel 2
+    100542: Wheel 3
+    400000: box
+    400002: box 1
+    400004: box 10
+    400006: box 11
+    400008: box 12
+    400010: box 13
+    400012: box 14
+    400014: box 15
+    400016: box 16
+    400018: box 17
+    400020: box 18
+    400022: box 19
+    400024: box 2
+    400026: box 20
+    400028: box 21
+    400030: box 22
+    400032: box 23
+    400034: box 24
+    400036: box 25
+    400038: box 26
+    400040: box 27
+    400042: box 28
+    400044: box 29
+    400046: box 3
+    400048: box 30
+    400050: box 31
+    400052: box 32
+    400054: box 33
+    400056: box 34
+    400058: box 35
+    400060: box 36
+    400062: box 37
+    400064: box 38
+    400066: box 39
+    400068: box 4
+    400070: box 40
+    400072: box 41
+    400074: box 42
+    400076: box 43
+    400078: box 44
+    400080: box 45
+    400082: box 46
+    400084: box 47
+    400086: box 48
+    400088: box 49
+    400090: box 5
+    400092: box 50
+    400094: box 51
+    400096: box 52
+    400098: box 53
+    400100: box 54
+    400102: box 55
+    400104: box 56
+    400106: box 57
+    400108: box 58
+    400110: box 59
+    400112: box 6
+    400114: box 60
+    400116: box 61
+    400118: box 62
+    400120: box 63
+    400122: box 64
+    400124: box 65
+    400126: box 66
+    400128: box 67
+    400130: box 68
+    400132: box 69
+    400134: box 7
+    400136: box 70
+    400138: box 71
+    400140: box 72
+    400142: box 73
+    400144: box 74
+    400146: box 75
+    400148: box 76
+    400150: box 77
+    400152: box 78
+    400154: box 79
+    400156: box 8
+    400158: box 80
+    400160: box 81
+    400162: box 82
+    400164: box 9
+    400166: Cube
+    400168: Cube 1
+    400170: Cube 10
+    400172: Cube 11
+    400174: Cube 12
+    400176: Cube 13
+    400178: Cube 14
+    400180: Cube 15
+    400182: Cube 16
+    400184: Cube 17
+    400186: Cube 18
+    400188: Cube 19
+    400190: Cube 2
+    400192: Cube 20
+    400194: Cube 21
+    400196: Cube 22
+    400198: Cube 23
+    400200: Cube 24
+    400202: Cube 25
+    400204: Cube 26
+    400206: Cube 27
+    400208: Cube 28
+    400210: Cube 29
+    400212: Cube 3
+    400214: Cube 30
+    400216: Cube 31
+    400218: Cube 32
+    400220: Cube 33
+    400222: Cube 34
+    400224: Cube 35
+    400226: Cube 36
+    400228: Cube 37
+    400230: Cube 38
+    400232: Cube 39
+    400234: Cube 4
+    400236: Cube 40
+    400238: Cube 41
+    400240: Cube 42
+    400242: Cube 43
+    400244: Cube 44
+    400246: Cube 5
+    400248: Cube 6
+    400250: Cube 7
+    400252: Cube 8
+    400254: Cube 9
+    400256: cylinder
+    400258: Domino
+    400260: Domino 1
+    400262: Domino 10
+    400264: Domino 11
+    400266: Domino 12
+    400268: Domino 13
+    400270: Domino 14
+    400272: Domino 15
+    400274: Domino 16
+    400276: Domino 17
+    400278: Domino 18
+    400280: Domino 19
+    400282: Domino 2
+    400284: Domino 20
+    400286: Domino 21
+    400288: Domino 22
+    400290: Domino 23
+    400292: Domino 24
+    400294: Domino 25
+    400296: Domino 26
+    400298: Domino 27
+    400300: Domino 28
+    400302: Domino 29
+    400304: Domino 3
+    400306: Domino 30
+    400308: Domino 31
+    400310: Domino 32
+    400312: Domino 33
+    400314: Domino 34
+    400316: Domino 4
+    400318: Domino 5
+    400320: Domino 6
+    400322: Domino 7
+    400324: Domino 8
+    400326: Domino 9
+    400328: group_0
+    400330: group_0 1
+    400332: group_0 10
+    400334: group_0 11
+    400336: group_0 2
+    400338: group_0 3
+    400340: group_0 4
+    400342: group_0 5
+    400344: group_0 6
+    400346: group_0 7
+    400348: group_0 8
+    400350: group_0 9
+    400352: group_1
+    400354: group_10
+    400356: group_2
+    400358: group_3
+    400360: group_4
+    400362: group_5
+    400364: group_6
+    400366: group_7
+    400368: group_8
+    400370: group_9
+    400372: hinge
+    400374: hinge 1
+    400376: hinge 10
+    400378: hinge 11
+    400380: hinge 2
+    400382: hinge 3
+    400384: hinge 4
+    400386: hinge 5
+    400388: hinge 6
+    400390: hinge 7
+    400392: hinge 8
+    400394: hinge 9
+    400396: hinge19524
+    400398: hinge19879
+    400400: hinge20504
+    400402: hinge20518
+    400404: hinge20532
+    400406: hinge20546
+    400408: hinge20573
+    400410: hinge20911
+    400412: hinge21222
+    400414: hinge6208
+    400416: hinge7041
+    400418: hinge9323
+    400420: ID12
+    400422: ID32
+    400424: ID57
+    400426: ID57 1
+    400428: ID57 10
+    400430: ID57 11
+    400432: ID57 2
+    400434: ID57 3
+    400436: ID57 4
+    400438: ID57 5
+    400440: ID57 6
+    400442: ID57 7
+    400444: ID57 8
+    400446: ID57 9
+    400448: ID70
+    400450: instance_0
+    400452: instance_1
+    400454: instance_10
+    400456: instance_11
+    400458: instance_12
+    400460: instance_13
+    400462: instance_14
+    400464: instance_15
+    400466: instance_16
+    400468: instance_17
+    400470: instance_18
+    400472: instance_19
+    400474: instance_2
+    400476: instance_20
+    400478: instance_21
+    400480: instance_22
+    400482: instance_23
+    400484: instance_24
+    400486: instance_25
+    400488: instance_3
+    400490: instance_4
+    400492: instance_5
+    400494: instance_6
+    400496: instance_7
+    400498: instance_8
+    400500: instance_9
+    400502: //RootNode
+    400504: skp_camera_Last_Saved_SketchUp_View
+    400506: sphere
+    400508: sphere 1
+    400510: sphere 2
+    400512: staticmesh
+    400514: staticmesh 1
+    400516: staticmesh 10
+    400518: staticmesh 11
+    400520: staticmesh 2
+    400522: staticmesh 3
+    400524: staticmesh 4
+    400526: staticmesh 5
+    400528: staticmesh 6
+    400530: staticmesh 7
+    400532: staticmesh 8
+    400534: staticmesh 9
+    400536: Wheel
+    400538: Wheel 1
+    400540: Wheel 2
+    400542: Wheel 3
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: material
+    2100002: Color_J08
+    2300000: box 28
+    2300002: box 37
+    2300004: box 4
+    2300006: box 73
+    2300008: box 74
+    2300010: box 75
+    2300012: box 76
+    2300014: box 77
+    2300016: box 78
+    2300018: box 79
+    2300020: box 80
+    2300022: box 81
+    2300024: box 82
+    2300026: Cube
+    2300028: Cube 1
+    2300030: Cube 10
+    2300032: Cube 11
+    2300034: Cube 12
+    2300036: Cube 13
+    2300038: Cube 14
+    2300040: Cube 15
+    2300042: Cube 16
+    2300044: Cube 17
+    2300046: Cube 18
+    2300048: Cube 19
+    2300050: Cube 2
+    2300052: Cube 20
+    2300054: Cube 21
+    2300056: Cube 22
+    2300058: Cube 23
+    2300060: Cube 24
+    2300062: Cube 25
+    2300064: Cube 26
+    2300066: Cube 27
+    2300068: Cube 28
+    2300070: Cube 29
+    2300072: Cube 3
+    2300074: Cube 30
+    2300076: Cube 31
+    2300078: Cube 32
+    2300080: Cube 33
+    2300082: Cube 34
+    2300084: Cube 35
+    2300086: Cube 36
+    2300088: Cube 37
+    2300090: Cube 38
+    2300092: Cube 39
+    2300094: Cube 4
+    2300096: Cube 40
+    2300098: Cube 41
+    2300100: Cube 42
+    2300102: Cube 43
+    2300104: Cube 44
+    2300106: Cube 5
+    2300108: Cube 6
+    2300110: Cube 7
+    2300112: Cube 8
+    2300114: Cube 9
+    2300116: cylinder
+    2300118: Domino
+    2300120: Domino 1
+    2300122: Domino 10
+    2300124: Domino 11
+    2300126: Domino 12
+    2300128: Domino 13
+    2300130: Domino 14
+    2300132: Domino 15
+    2300134: Domino 16
+    2300136: Domino 17
+    2300138: Domino 18
+    2300140: Domino 19
+    2300142: Domino 2
+    2300144: Domino 20
+    2300146: Domino 21
+    2300148: Domino 22
+    2300150: Domino 23
+    2300152: Domino 24
+    2300154: Domino 25
+    2300156: Domino 26
+    2300158: Domino 27
+    2300160: Domino 28
+    2300162: Domino 29
+    2300164: Domino 3
+    2300166: Domino 30
+    2300168: Domino 31
+    2300170: Domino 32
+    2300172: Domino 33
+    2300174: Domino 34
+    2300176: Domino 4
+    2300178: Domino 5
+    2300180: Domino 6
+    2300182: Domino 7
+    2300184: Domino 8
+    2300186: Domino 9
+    2300188: group_0
+    2300190: group_0 1
+    2300192: group_0 10
+    2300194: group_0 11
+    2300196: group_0 2
+    2300198: group_0 3
+    2300200: group_0 4
+    2300202: group_0 5
+    2300204: group_0 6
+    2300206: group_0 7
+    2300208: group_0 8
+    2300210: group_0 9
+    2300212: group_4
+    2300214: ID12
+    2300216: ID32
+    2300218: ID57
+    2300220: ID57 1
+    2300222: ID57 10
+    2300224: ID57 11
+    2300226: ID57 2
+    2300228: ID57 3
+    2300230: ID57 4
+    2300232: ID57 5
+    2300234: ID57 6
+    2300236: ID57 7
+    2300238: ID57 8
+    2300240: ID57 9
+    2300242: ID70
+    2300244: sphere
+    2300246: sphere 1
+    2300248: sphere 2
+    2300250: staticmesh
+    2300252: staticmesh 1
+    2300254: staticmesh 10
+    2300256: staticmesh 11
+    2300258: staticmesh 2
+    2300260: staticmesh 3
+    2300262: staticmesh 4
+    2300264: staticmesh 5
+    2300266: staticmesh 6
+    2300268: staticmesh 7
+    2300270: staticmesh 8
+    2300272: staticmesh 9
+    2300274: Wheel
+    2300276: Wheel 1
+    2300278: Wheel 2
+    2300280: Wheel 3
+    3300000: box 28
+    3300002: box 37
+    3300004: box 4
+    3300006: box 73
+    3300008: box 74
+    3300010: box 75
+    3300012: box 76
+    3300014: box 77
+    3300016: box 78
+    3300018: box 79
+    3300020: box 80
+    3300022: box 81
+    3300024: box 82
+    3300026: Cube
+    3300028: Cube 1
+    3300030: Cube 10
+    3300032: Cube 11
+    3300034: Cube 12
+    3300036: Cube 13
+    3300038: Cube 14
+    3300040: Cube 15
+    3300042: Cube 16
+    3300044: Cube 17
+    3300046: Cube 18
+    3300048: Cube 19
+    3300050: Cube 2
+    3300052: Cube 20
+    3300054: Cube 21
+    3300056: Cube 22
+    3300058: Cube 23
+    3300060: Cube 24
+    3300062: Cube 25
+    3300064: Cube 26
+    3300066: Cube 27
+    3300068: Cube 28
+    3300070: Cube 29
+    3300072: Cube 3
+    3300074: Cube 30
+    3300076: Cube 31
+    3300078: Cube 32
+    3300080: Cube 33
+    3300082: Cube 34
+    3300084: Cube 35
+    3300086: Cube 36
+    3300088: Cube 37
+    3300090: Cube 38
+    3300092: Cube 39
+    3300094: Cube 4
+    3300096: Cube 40
+    3300098: Cube 41
+    3300100: Cube 42
+    3300102: Cube 43
+    3300104: Cube 44
+    3300106: Cube 5
+    3300108: Cube 6
+    3300110: Cube 7
+    3300112: Cube 8
+    3300114: Cube 9
+    3300116: cylinder
+    3300118: Domino
+    3300120: Domino 1
+    3300122: Domino 10
+    3300124: Domino 11
+    3300126: Domino 12
+    3300128: Domino 13
+    3300130: Domino 14
+    3300132: Domino 15
+    3300134: Domino 16
+    3300136: Domino 17
+    3300138: Domino 18
+    3300140: Domino 19
+    3300142: Domino 2
+    3300144: Domino 20
+    3300146: Domino 21
+    3300148: Domino 22
+    3300150: Domino 23
+    3300152: Domino 24
+    3300154: Domino 25
+    3300156: Domino 26
+    3300158: Domino 27
+    3300160: Domino 28
+    3300162: Domino 29
+    3300164: Domino 3
+    3300166: Domino 30
+    3300168: Domino 31
+    3300170: Domino 32
+    3300172: Domino 33
+    3300174: Domino 34
+    3300176: Domino 4
+    3300178: Domino 5
+    3300180: Domino 6
+    3300182: Domino 7
+    3300184: Domino 8
+    3300186: Domino 9
+    3300188: group_0
+    3300190: group_0 1
+    3300192: group_0 10
+    3300194: group_0 11
+    3300196: group_0 2
+    3300198: group_0 3
+    3300200: group_0 4
+    3300202: group_0 5
+    3300204: group_0 6
+    3300206: group_0 7
+    3300208: group_0 8
+    3300210: group_0 9
+    3300212: group_4
+    3300214: ID12
+    3300216: ID32
+    3300218: ID57
+    3300220: ID57 1
+    3300222: ID57 10
+    3300224: ID57 11
+    3300226: ID57 2
+    3300228: ID57 3
+    3300230: ID57 4
+    3300232: ID57 5
+    3300234: ID57 6
+    3300236: ID57 7
+    3300238: ID57 8
+    3300240: ID57 9
+    3300242: ID70
+    3300244: sphere
+    3300246: sphere 1
+    3300248: sphere 2
+    3300250: staticmesh
+    3300252: staticmesh 1
+    3300254: staticmesh 10
+    3300256: staticmesh 11
+    3300258: staticmesh 2
+    3300260: staticmesh 3
+    3300262: staticmesh 4
+    3300264: staticmesh 5
+    3300266: staticmesh 6
+    3300268: staticmesh 7
+    3300270: staticmesh 8
+    3300272: staticmesh 9
+    3300274: Wheel
+    3300276: Wheel 1
+    3300278: Wheel 2
+    3300280: Wheel 3
+    4300000: staticmesh
+    4300002: ID12
+    4300004: sphere
+    4300006: staticmesh
+    4300008: ID32
+    4300010: box
+    4300012: group_0
+    4300014: ID57
+    4300016: staticmesh
+    4300018: ID70
+    4300020: staticmesh
+    4300022: staticmesh
+    4300024: staticmesh
+    4300026: staticmesh
+    4300028: cylinder
+    4300030: box
+    4300032: box
+    4300034: staticmesh
+    4300036: box
+    4300038: box
+    4300040: sphere
+    4300042: staticmesh
+    4300044: box
+    4300046: box
+    4300048: box
+    4300050: group_4
+    4300052: staticmesh
+    4300054: sphere
+    4300056: box
+    4300058: box
+    4300060: staticmesh
+    4300062: box
+    4300064: box
+    4300066: box
+    4300068: Wheel
+    4300070: staticmesh
+    4300072: Domino
+    4300074: Cube
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
